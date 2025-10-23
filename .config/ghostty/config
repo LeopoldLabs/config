@@ -1,0 +1,12 @@
+font-family = Iosevka
+font-size=15
+theme = Catppuccin Mocha
+
+term=xterm-256color
+
+keybind = alt+left=unbind
+macos-option-as-alt = left
+
+
+window-width=80
+window-height=24
